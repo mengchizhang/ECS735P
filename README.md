@@ -12,7 +12,7 @@ Data Source:
 http://dbpedia.org/
 
 Objectives
-##1: Choose a concept and build an ontology using Protégé.
-##2: Write queries to construct and populate an external semantic data source into the existing ontology.
-##3: Use SPARQL to query the populated local ontology.
-##4: Find another external semantic data repository, fuse it with existing data structure and make a query that cannot be answered by either remote knowledge base alone.
+•	#1: Choose a concept and build an ontology using Protégé.
+•	#2: Write queries to construct and populate an external semantic data source into the existing ontology.
+•	#3: Use SPARQL to query the populated local ontology.
+•	#4: Find another external semantic data repository, fuse it with existing data structure and make a query that cannot be answered by either remote knowledge base alone.
